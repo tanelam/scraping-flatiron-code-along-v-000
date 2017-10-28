@@ -24,6 +24,7 @@ end
 
 
 Scraper.new.get_page
+Scraper.new.print_courses
 
   #     doc.css(".post").each do |post|
   #     course = Course.new
